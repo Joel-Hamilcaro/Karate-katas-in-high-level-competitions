@@ -7,9 +7,9 @@
 
 ## Notebook versions
 
-- [Cleaned notebook (HTML web format without Python code) ](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/KataStudy.html)   
+- [Cleaned notebook (HTML web format without Python code) ](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/html/KataStudy.html)   
 
-- [Original Jupyter notebook](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/KataStudy.ipynb)  
+- [Original Jupyter notebook](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/src/KataStudy.ipynb)  
 
 
 ### Purpose
