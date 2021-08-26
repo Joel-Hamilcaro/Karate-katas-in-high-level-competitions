@@ -5,11 +5,11 @@
 
 **Author : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/)**  
 
-## Notebook versions
+### Notebook here :
 
-- [Cleaned notebook (HTML web format without Python code) ](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/html/KataStudy.html)   
+- [HTML (without Python code) ](https://htmlpreview.github.io/?https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/blob/master/html/KataStudy.html)   
 
-- [Original Jupyter notebook](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/src/KataStudy.ipynb)  
+- [Jupyter notebook](https://nbviewer.jupyter.org/github/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/blob/master/src/KataStudy.ipynb)  
 
 
 ### Purpose
