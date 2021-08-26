@@ -7,9 +7,9 @@
 
 ### Notebook here :
 
-- [HTML (without Python code) ](https://htmlpreview.github.io/?https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/blob/master/html/KataStudy.html)   
+- [HTML (without Python code) ]()   
 
-- [Jupyter notebook](https://nbviewer.jupyter.org/github/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/blob/master/src/KataStudy.ipynb)  
+- [Jupyter notebook]()  
 
 
 ### Purpose
