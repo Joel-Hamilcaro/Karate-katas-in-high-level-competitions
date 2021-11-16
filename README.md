@@ -7,7 +7,7 @@
 
 ### Project here :
 
-- [Web browser display](https://rawcdn.githack.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/3e70d9864442cef2eb010198b335b57e1bb51edc/files/KataStudy.html)   
+- [Web browser display](https://joel-hamilcaro.github.io/KataStudy.html)   
   Mobile browsers <strong>are not supported</strong>.
 
 - [Jupyter notebook (source code)](https://github.com/Joel-Hamilcaro/Karate-katas-in-high-level-competitions/blob/master/files/KataStudy.ipynb)  
